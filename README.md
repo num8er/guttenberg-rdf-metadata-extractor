@@ -20,6 +20,9 @@ Each book has an RDF file which will need to be processed to extract the:
 ```
 **Note:** For some books all of the data won't be available.
 
+**YouTube link:** https://www.youtube.com/watch?v=moq1hvXSMw0
+
+
 #### BEFORE USAGE
 
 Install deps:

@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "cli-progress": "3.8.2",
-    "dotenv": "8.2.0",
+    "dotenv": "8.6.0",
     "lodash": "4.17.21",
     "mysql2": "2.1.0",
     "sequelize": "5.22.5",

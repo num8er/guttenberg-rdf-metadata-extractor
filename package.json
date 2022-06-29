@@ -20,12 +20,18 @@
     "sequelize-cli": "5.5.1"
   },
   "dependencies": {
-    "cli-progress": "3.8.2",
-    "dotenv": "8.2.0",
+    "cli-progress": "3.11.1",
+    "dotenv": "8.6.0",
     "lodash": "4.17.21",
+<<<<<<< snyk-fix-f24a0071d051481ee87a65c57b2d896c
     "mysql2": "2.1.0",
     "sequelize": "6.19.1",
     "tar": "6.1.9",
+=======
+    "mysql2": "2.3.3",
+    "sequelize": "5.22.5",
+    "tar": "6.1.11",
+>>>>>>> master
     "unzipper": "0.10.11",
     "xml2js": "0.4.23"
   }

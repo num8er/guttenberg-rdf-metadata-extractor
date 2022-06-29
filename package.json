@@ -23,7 +23,7 @@
     "cli-progress": "3.8.2",
     "dotenv": "8.2.0",
     "lodash": "4.17.21",
-    "mysql2": "2.1.0",
+    "mysql2": "2.3.3",
     "sequelize": "5.22.5",
     "tar": "6.1.9",
     "unzipper": "0.10.11",

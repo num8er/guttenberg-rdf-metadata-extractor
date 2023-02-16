@@ -24,7 +24,7 @@
     "dotenv": "8.6.0",
     "lodash": "4.17.21",
     "mysql2": "2.3.3",
-    "sequelize": "6.21.2",
+    "sequelize": "6.21.3",
     "tar": "6.1.12",
     "unzipper": "0.10.11",
     "xml2js": "0.4.23"
